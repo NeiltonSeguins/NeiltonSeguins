@@ -1,4 +1,5 @@
 name: Atualiza posts do medium no readme
+
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -11,9 +12,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in Medium posts
-        uses: utamkrishnar/blog-post-workflow@master
+      - name: Blog Post Workflow
+        uses: gautamkrishnar/blog-post-workflow@1.7.7
         with:
-          with:
           comment_tag_name: MEDIUM
           feed_list: "https://medium.com/feed/@seguins.neilton"
