@@ -9,8 +9,10 @@
 
 Meu nome é Neilton Seguins, sou desenvolvedor Frontend e instrutor React iniciante na [Alura](https://www.alura.com.br/). Atualmente estou trabalhando com desenvolvimento usando JavaScript, React js e Next.js, e estou estudando Node js, Typescript e Mongo DB. Amo aprender coisas novas e compartilhar o que sei. Compartilho conhecimento no Medium, vai lá dá uma olhada!
 
+###  [![ Medium ](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@seguins.neilton)
 
-
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ##
 <div style="display: inline_block"><br>
