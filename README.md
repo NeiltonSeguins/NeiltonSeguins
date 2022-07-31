@@ -1,11 +1,18 @@
-## Oi, Neilton Seguins aqui!👋
+## Olá! 👋
 
- <div>
-  <a href="https://github.com/NeiltonSeguins">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NeiltonSeguins&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeiltonSeguins&layout=compact&langs_count=7&theme=merko"/>
+
+<div>
+  <a href="https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/neilton_seguins/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:seguins.neilton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+Meu nome é Neilton Seguins, sou desenvolvedor Frontend e instrutor React iniciante na [Alura](https://www.alura.com.br/). Atualmente estou trabalhando com desenvolvimento usando JavaScript, React js e Next.js, e estou estudando Node js, Typescript e Mongo DB. Amo aprender coisas novas e compartilhar o que sei. Compartilho conhecimento no Medium, vai lá dá uma olhada!
+
+
+
+
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="Neilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Neilton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,12 +24,24 @@
 
 ##
 
-<div>
-  <a href="https://www.linkedin.com/in/ne%C3%ADlton-seguins-bb8786a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/neilton_seguins/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:seguins.neilton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+
+##  ⚡ Curiosidades
+
+- Amo ouvir músicas e até toco contrabaixo 🎸
+- Quando criança queria ser cientista ou astronauta
+- Sou nerdola mesmo, e gosto de ler mangás, ver animes e assistir filmes e séries da Marvel
+- Sou Bacharel em Engenharia Mecânica e sonho um dia construir um robô, quem sabe um Transformer 🤖
+
+
+##
+
+
+ <div>
+  <a href="https://github.com/NeiltonSeguins">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NeiltonSeguins&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeiltonSeguins&layout=compact&langs_count=7&theme=merko"/>
 </div>
+
 
 <!---
 NeiltonSeguins/NeiltonSeguins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
