@@ -16,6 +16,7 @@ Meu nome é Neilton Seguins, sou desenvolvedor Frontend e instrutor React inicia
 ###  [![ Medium ](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seguins.neilton)
 
 <!-- MEDIUM:START -->
+- [Cinco razões para conhecer o Astro](https://medium.com/@seguins.neilton/cinco-raz%C3%B5es-para-conhecer-o-astro-3eb4ee6514c6?source=rss-f029a4b16f06------2)
 - [Extensões do VS Code que você precisa conhecer.](https://medium.com/@seguins.neilton/cinco-extens%C3%B5es-do-vs-code-que-voc%C3%AA-precisa-conhecer-e70e2f646fab?source=rss-f029a4b16f06------2)
 <!-- MEDIUM:END -->
 
