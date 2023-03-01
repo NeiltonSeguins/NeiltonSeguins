@@ -15,6 +15,7 @@ Meu nome é Neilton Seguins, sou desenvolvedor Frontend e instrutor React inicia
 ## [![ DevTo ](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/neiltonseguins)
 
 <!-- DEVTO:START -->
+- [Testes no Front-end: por que, como e quais tipos usar](https://dev.to/neiltonseguins/testes-no-front-end-por-que-como-e-quais-tipos-usar-11jp)
 <!-- DEVTO:END -->
 
 ###  [![ Medium ](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seguins.neilton)
