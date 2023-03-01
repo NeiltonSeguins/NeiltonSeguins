@@ -8,7 +8,7 @@
   <a href = "mailto:seguins.neilton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Meu nome é Neilton Seguins, sou desenvolvedor Frontend e instrutor React iniciante na [Alura](https://www.alura.com.br/). Atualmente trabalho com desenvolvimento usando JavaScript/Typescript, React js e Next.js, e estou estudando Node js e Mongo DB. Também estudo um pouco do React Native nas horas vagas. Amo aprender coisas novas e compartilhar o que sei. Compartilho conhecimento no Medium, vai lá dá uma olhada!
+Meu nome é Neilton Seguins, sou desenvolvedor Frontend e instrutor React iniciante na [Alura](https://www.alura.com.br/). Atualmente trabalho com desenvolvimento usando JavaScript/Typescript, React js e Next.js, e estou estudando Node js e Mongo DB. Também estudo um pouco do React Native nas horas vagas. Amo aprender coisas novas e compartilhar o que sei.
 
 ## 📝 Últimos posts
 
