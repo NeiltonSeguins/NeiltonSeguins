@@ -8,7 +8,7 @@
   <a href = "mailto:seguins.neilton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Meu nome é Neilton Seguins, sou desenvolvedor Frontend e instrutor React iniciante na [Alura](https://www.alura.com.br/). Atualmente trabalho com desenvolvimento usando JavaScript/Typescript, React js e Next.js, e estou estudando Node js e Mongo DB. Também estudo um pouco do React Native nas horas vagas. Amo aprender coisas novas e compartilhar o que sei.
+Meu nome é Neilton Seguins, sou Instrutor e desenvolvedor de Software na [Alura](https://www.alura.com.br/). Atualmente trabalho com desenvolvimento usando JavaScript/Typescript, React js e Next.js, e estou estudando Node js e Mongo DB. Também estudo um pouco do React Native nas horas vagas. Amo aprender coisas novas e compartilhar o que sei.
 
 ## 📝 Últimos posts
 
@@ -50,11 +50,11 @@ Meu nome é Neilton Seguins, sou desenvolvedor Frontend e instrutor React inicia
 - Sou nerdola mesmo, e gosto de ler mangás, ver animes e assistir filmes e séries da Marvel
 - Sou Bacharel em Engenharia Mecânica e sonho um dia construir um robô, quem sabe um Transformer 🤖
 
- <div>
+<!--  <div>
   <a href="https://github.com/NeiltonSeguins">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NeiltonSeguins&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeiltonSeguins&layout=compact&langs_count=7&theme=merko"/>
-</div>
+</div> -->
 
 
 <!---
