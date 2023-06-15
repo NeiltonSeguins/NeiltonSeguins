@@ -50,14 +50,10 @@ Meu nome é Neilton Seguins, sou Instrutor e desenvolvedor de Software na [Alura
 - Sou nerdola mesmo, e gosto de ler mangás, ver animes e assistir filmes e séries da Marvel
 - Sou Bacharel em Engenharia Mecânica e sonho um dia construir um robô, quem sabe um Transformer 🤖
 
-<!--  <div>
+## 📈 Github Stats
+
+<div align="center">
   <a href="https://github.com/NeiltonSeguins">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NeiltonSeguins&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeiltonSeguins&layout=compact&langs_count=7&theme=merko"/>
-</div> -->
-
-
-<!---
-NeiltonSeguins/NeiltonSeguins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeiltonSeguins&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeiltonSeguins&layout=compact&langs_count=7&theme=merko"/>
+</div>
