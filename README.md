@@ -53,6 +53,10 @@ Meu nome é Neilton Seguins, sou Instrutor e desenvolvedor de Software na [Alura
 ## 📈 Github Stats
 
 <div align="center">
-  <a href="https://github.com/NeiltonSeguins">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeiltonSeguins&layout=compact&langs_count=7&theme=merko"/>
+  <a href="https://github.com/NeiltonSeguins/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NeiltonSeguins&theme=merko&show_icons=true" />
+  </a>
+  <a href="https://github.com/NeiltonSeguins/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeiltonSeguins&layout=compact&langs_count=8&card_width=320&theme=merko" />
+  </a>
 </div>
