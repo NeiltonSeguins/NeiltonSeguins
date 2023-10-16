@@ -66,3 +66,11 @@ Meu nome é Neilton Seguins, sou Instrutor e desenvolvedor de Software na [Alura
 <!--     <img height=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeiltonSeguins&theme=merko&hide_border=false" /> -->
 <!--   </a> -->
 <!-- </div> -->
+
+## 🏆 Hacktoberfest Badges
+
+<div align="center">
+  <a href="https://github.com/NeiltonSeguins/github-readme-stats">
+    <img height=260 align="center" src="https://holopin.me/neiltonseguins" alt="An image of @neiltonseguins's Holopin badges, which is a link to view their full Holopin profile" />
+  </a>
+</div>
