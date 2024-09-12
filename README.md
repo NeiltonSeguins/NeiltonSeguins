@@ -8,16 +8,16 @@
   <a href = "mailto:seguins.neilton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Meu nome é Neilton Seguins, sou Instrutor e desenvolvedor de Software na [Alura](https://www.alura.com.br/). Atualmente trabalho com desenvolvimento usando JavaScript/Typescript, React js e Next.js, e estou estudando Node js e Mongo DB. Também estudo um pouco do React Native nas horas vagas. Amo aprender coisas novas e compartilhar o que sei.
+Meu nome é Neilton Seguins, sou Instrutor e desenvolvedor de Software na [Alura](https://www.alura.com.br/). Atualmente trabalho com desenvolvimento usando JavaScript/Typescript, React js e Next.js. Amo aprender coisas novas e compartilhar conhecimento.
 
 ## 📝 Últimos posts
 
-## [![ DevTo ](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/neiltonseguins)
+<!-- ## [![ DevTo ](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/neiltonseguins)
 
 <!-- DEVTO:START -->
-- [Testes no Front-end: métodos de consulta do RTL](https://dev.to/neiltonseguins/testes-no-front-end-metodos-de-consulta-do-rtl-4obf)
-- [Testes no Front-end: Escrevendo seu primeiro teste](https://dev.to/neiltonseguins/testes-no-front-end-escrevendo-seu-primeiro-teste-go4)
-- [Testes no Front-end: por que, como e quais tipos usar](https://dev.to/neiltonseguins/testes-no-front-end-por-que-como-e-quais-tipos-usar-11jp)
+<!-- - [Testes no Front-end: métodos de consulta do RTL](https://dev.to/neiltonseguins/testes-no-front-end-metodos-de-consulta-do-rtl-4obf)
+<!-- - [Testes no Front-end: Escrevendo seu primeiro teste](https://dev.to/neiltonseguins/testes-no-front-end-escrevendo-seu-primeiro-teste-go4)
+<!-- - [Testes no Front-end: por que, como e quais tipos usar](https://dev.to/neiltonseguins/testes-no-front-end-por-que-como-e-quais-tipos-usar-11jp)
 <!-- DEVTO:END -->
 
 ###  [![ Medium ](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seguins.neilton)
@@ -37,7 +37,6 @@ Meu nome é Neilton Seguins, sou Instrutor e desenvolvedor de Software na [Alura
   <img align="center" alt="Neilton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Neilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Neilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Neilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Neilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Neilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
@@ -60,12 +59,6 @@ Meu nome é Neilton Seguins, sou Instrutor e desenvolvedor de Software na [Alura
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeiltonSeguins&layout=compact&langs_count=8&card_width=320&theme=merko" />
   </a>
 </div>
-
-<!-- <div align="center"> -->
-<!--   <a href="https://github.com/NeiltonSeguins/github-readme-stats"> -->
-<!--     <img height=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeiltonSeguins&theme=merko&hide_border=false" /> -->
-<!--   </a> -->
-<!-- </div> -->
 
 ## 🏆 Hacktoberfest Badges
 
