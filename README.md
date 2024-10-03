@@ -15,6 +15,7 @@ Meu nome é Neilton Seguins, sou Instrutor e desenvolvedor de Software na [Alura
 ## [![ DevTo ](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/neiltonseguins)
 
 <!-- DEVTO:START -->
+- [Onde contribuir no #Hacktoberfest 2024](https://dev.to/neiltonseguins/onde-contribuir-no-hacktoberfest-2024-j6o)
 - [Conhecendo objetos em JavaScript](https://dev.to/neiltonseguins/conhecendo-objetos-em-javascript-233)
 - [Testes no Front-end: métodos de consulta do RTL](https://dev.to/neiltonseguins/testes-no-front-end-metodos-de-consulta-do-rtl-4obf)
 - [Testes no Front-end: Escrevendo seu primeiro teste](https://dev.to/neiltonseguins/testes-no-front-end-escrevendo-seu-primeiro-teste-go4)
