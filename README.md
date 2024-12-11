@@ -17,7 +17,7 @@ Meu nome é Neilton Seguins, sou Instrutor e desenvolvedor de Software na [Alura
 <!-- DEVTO:START -->
 - [Criando um Chatbot com JavaScript e Gemini AI](https://dev.to/neiltonseguins/criando-um-chatbot-com-javascript-e-gemini-ai-364k)
 - [Onde eu colaborei no 11 Hacktoberfest](https://dev.to/neiltonseguins/onde-eu-colaborei-no-11deg-hacktoberfest-499h)
-- [Rick and Morty e Clorsures: o que essas coisas tem em comum?](https://dev.to/neiltonseguins/rick-and-morty-e-clorsures-o-que-essas-coisas-tem-em-comum-3jpb)
+- [Rick and Morty e Closures: o que essas coisas tem em comum?](https://dev.to/neiltonseguins/rick-and-morty-e-clorsures-o-que-essas-coisas-tem-em-comum-3jpb)
 - [Onde contribuir no #Hacktoberfest 2024](https://dev.to/neiltonseguins/onde-contribuir-no-hacktoberfest-2024-j6o)
 - [Conhecendo objetos em JavaScript](https://dev.to/neiltonseguins/conhecendo-objetos-em-javascript-233)
 <!-- DEVTO:END -->
