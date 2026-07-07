@@ -8,7 +8,7 @@
   <a href = "mailto:seguins.neilton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Meu nome é Neilton Seguins, sou Instrutor e desenvolvedor de Software na [Alura](https://www.alura.com.br/). Atualmente trabalho com desenvolvimento usando JavaScript/Typescript, React js e Next.js. Amo aprender coisas novas e compartilhar conhecimento.
+Meu nome é Neilton Seguins, sou desenvolvedor de Software na [Alura](https://www.alura.com.br/). Atualmente trabalho com desenvolvimento usando JavaScript/Typescript, React js e Next.js. Amo aprender coisas novas e compartilhar conhecimento.
 
 ## 📝 Últimos posts
 
@@ -43,17 +43,6 @@ Meu nome é Neilton Seguins, sou Instrutor e desenvolvedor de Software na [Alura
 - Curto muito jogos indie, e um dia vou criar um
 - Sou nerdola mesmo, e gosto de ler mangás, ver animes e assistir filmes e séries da Marvel
 - Sou Bacharel em Engenharia Mecânica e sonho um dia construir um robô, quem sabe um Transformer 🤖
-
-## 📈 Github Stats
-
-<div align="center">
-  <a href="https://github.com/NeiltonSeguins/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NeiltonSeguins&theme=merko&show_icons=true&hide_border=false&count_private=true" />
-  </a>
-  <a href="https://github.com/NeiltonSeguins/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeiltonSeguins&layout=compact&langs_count=8&card_width=320&theme=merko" />
-  </a>
-</div>
 
 ## 🏆 Hacktoberfest Badges
 
